@@ -2,7 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/AlthaiirV/Coursera/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-### CLICK HERE FOR YOUR PAGE DUMMY 
+### Header 1
+CLICK HERE FOR YOUR PAGE DUMMY 
+
+[Link](C:/Users/dell/Coursera/Site/external_links.html) 
 
 I´m trying to get my pages linked
 
