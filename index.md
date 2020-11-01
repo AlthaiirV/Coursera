@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/AlthaiirV/Coursera/edit/gh
 ### Header 1
 CLICK HERE FOR YOUR PAGE DUMMY 
 
-[Link](C:/Users/dell/Coursera/Site/external_links.html) 
+[Link](https://github.com/AlthaiirV/Coursera/blob/gh-pages/Site/external_links.html) 
 
 I´m trying to get my pages linked
 
