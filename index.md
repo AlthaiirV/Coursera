@@ -5,9 +5,11 @@ You can use the [editor on GitHub](https://github.com/AlthaiirV/Coursera/edit/gh
 ### Header 1
 CLICK HERE FOR YOUR PAGE DUMMY 
 
-[Link](https://github.com/AlthaiirV/Coursera/blob/gh-pages/Site/external_links.html) 
+[CLICK ME BABY ONE MORE TIME](https://github.com/AlthaiirV/Coursera/blob/gh-pages/Site/external_links.html) 
 
-I´m trying to get my pages linked
+> I´m trying to get my pages linked
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
